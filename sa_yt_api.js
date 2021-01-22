@@ -3,7 +3,7 @@ const https = require('https')
 
 channel_id = "UCYc2dDPuAzbySHNj-CzLckQ"
 key = "AIzaSyAmfuCVpImQT3vUBZD5CRA6z-urx5XM8GY" // api key ko to sir haha palitan nyo nalang ng inyo if u want- jerome
-count = 3
+count = 10
 subject = "math"
 part = "id"
 order = "relevance"
